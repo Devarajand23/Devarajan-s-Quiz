@@ -30,8 +30,7 @@ if (ans.lower()=="random access memory"):
     score=score+1
 
 else:
-    print("Sorry, that's a wrong answer ")
-    print("Its ok we can do better in the next one ")
+    print("That's a wrong answer ")
 
 #3 question
 
@@ -43,8 +42,7 @@ if (ans.lower()=="read only memory"):
     score=score+1
 
 else:
-    print("That is a wrong answer ")
-    print("Its ok good playing :) ")
+    print("Its a wrong answer ")
     
 #4 quesion
 
@@ -71,7 +69,3 @@ else:
 
 print("You got", str(score), "Questions correct out of 5 Qestions")
 
-
-
-
-    
